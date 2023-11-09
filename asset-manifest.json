@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bgchanger/static/css/main.e74115b5.css",
+    "main.js": "/Bgchanger/static/js/main.606261cf.js",
+    "index.html": "/Bgchanger/index.html",
+    "main.e74115b5.css.map": "/Bgchanger/static/css/main.e74115b5.css.map",
+    "main.606261cf.js.map": "/Bgchanger/static/js/main.606261cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e74115b5.css",
+    "static/js/main.606261cf.js"
+  ]
+}
